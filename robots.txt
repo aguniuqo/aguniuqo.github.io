@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aguniuqo.github.io/ESM/sitemap_index.txt.gz
+Sitemap: https://aguniuqo.github.io/Nnb/sitemap_index.txt.gz
+Sitemap: https://aguniuqo.github.io/SZg/sitemap_index.txt.gz
+Sitemap: https://aguniuqo.github.io/rZs/sitemap_index.txt.gz
+Sitemap: https://aguniuqo.github.io/sfy/sitemap_index.txt.gz
